@@ -59,14 +59,16 @@ body {
   padding: 128px;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 768px) {
   .container {
+    background-size: cover;
+    min-height: 100vh;
     padding: 48px;
   }
 
   .name {
     color: gray;
-    font-size: 28px;
+    font-size: 36px;
   }
 }
 
