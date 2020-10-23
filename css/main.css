@@ -1,6 +1,7 @@
-body {
+html, body {
   font-family: "Work Sans", sans-serif;
 /*   overscroll-behavior: none; */
+  background-color: #0a192f;
 }
 
 .aboutme {
